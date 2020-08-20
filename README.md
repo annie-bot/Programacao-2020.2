@@ -5,4 +5,4 @@ Programação 2 - 2020.2 com o prof Eduardo Falcão <img src="https://camo.githu
 
 ## Sumário 📚
 - [Anotações](Java/anotacoes.md)
-- [Códigos](Programacao-2020.2/codes/)
+- [Códigos](https://github.com/annie-bot/Programacao-2020.2/tree/master/codes)
