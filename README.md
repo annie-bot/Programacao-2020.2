@@ -6,4 +6,5 @@ Disciplina de Programação 2 - 2020.2 com o prof Eduardo Falcão <img src="http
 
 ## Sumário 📚
 - [Anotações](Java/anotacoes.md)
+- [Operadores em Java](https://github.com/annie-bot/Programacao-2020.2/blob/master/Java/anotacoes.md#operadores-em-java)
 - [Códigos](https://github.com/annie-bot/Programacao-2020.2/tree/master/codes)
