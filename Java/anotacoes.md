@@ -60,8 +60,8 @@ Exemplos:
 - Comparam duas variáveis.
 - &gt; (maior que)
 - &lt; (menor que)
-- >= (maior ou igual)
-- <= (menor ou igual)
+- &gt;= (maior ou igual)
+- &lt;= (menor ou igual)
 
 **Operadores lógicos**
 -  Permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões.
