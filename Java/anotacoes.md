@@ -1,8 +1,5 @@
 # Java
 
-**Expressões Aritméticas**
-- Soma, multiplicação, mode (resto), subtração, divisão: + * % - /
-
 **Declaração de variáveis**
 - Sintaxe: *<*tipo*>* *<*nome*>* = *<*valor inicial*>;*
 
@@ -36,4 +33,37 @@ Exemplos:
  - Processamento de dados (atribuição)
  - Saída de dados (escrita)
  
- 
+ ## Operadores em Java
+-  Atribuição, aritméticos, relacionais e lógicos.
+
+**Operadores de atribuição**
+- Servem para atribuir valores a variáveis: 
+- +=
+- -=
+- /=
+- *=
+- %=
+
+**Operadores aritméticos**
+- Servem para resolver operações aritméticas.
+- Soma, multiplicação, mode (resto), subtração, divisão: + * % - /
+
+**Operadores de incremento e decremento**
+- Incrementam ou decrementam em 1 o valor da variável.
+- ++ ou --
+
+**Operadores de igualdade**
+- Verificam se o valor ou o resultado da expressão lógica é igual ou diferente.
+- == ou !=
+
+**Operadores relacionais**
+- Comparam duas variáveis.
+- > (maior que)
+- < (menor que)
+- >= (maior ou igual)
+- <= (menor ou igual)
+
+**Operadores lógicos**
+-  Permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões.
+- && (Somente será executado se as duas condições declaradas no **if** forem verdadeiras)
+- || (Somente será executado caso **uma das duas condições** declaradas no **if** forem verdadeiras)
