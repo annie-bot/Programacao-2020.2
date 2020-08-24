@@ -58,8 +58,8 @@ Exemplos:
 
 **Operadores relacionais**
 - Comparam duas variáveis.
-- > (maior que)
-- < (menor que)
+- &gt; (maior que)
+- &lt; (menor que)
 - >= (maior ou igual)
 - <= (menor ou igual)
 
