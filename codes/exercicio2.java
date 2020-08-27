@@ -15,3 +15,6 @@ Scanner entrada = new Scanner(System.in);
   System.out.println("Média Aritmética = " + media);
   }
 }
+
+
+//Escreva um programa que recebe do usuário 3 valores do tipo ponto flutuante e imprime na tela a média aritmética destes números.
