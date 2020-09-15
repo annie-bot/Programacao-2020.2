@@ -67,3 +67,13 @@ Exemplos:
 -  Permite criar expressões lógicas maiores a partir da junção de duas ou mais expressões.
 - && (Somente será executado se as duas condições declaradas no **if** forem verdadeiras)
 - || (Somente será executado caso **uma das duas condições** declaradas no **if** forem verdadeiras)
+
+## Estruturas Condicionais
+- Permite definir que um certo bloco de comandos somente será executado dependendo de uma condição.
+- if (se)
+- else (senão)
+
+## Estruturas de Repetição
+- Permite a repetição de um bloco de comandos enquanto uma condição for verdadeira.
+- while
+- O **for** é uma estrutura de controle que repete um bloco de comandos para um certo intervalo de valores.
