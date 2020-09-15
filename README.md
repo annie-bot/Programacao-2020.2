@@ -7,4 +7,6 @@ Disciplina de Programação 2 - 2020.2 com o prof Eduardo Falcão <img src="http
 ## Sumário 📚
 - [Anotações](Java/anotacoes.md)
 - [Operadores em Java](https://github.com/annie-bot/Programacao-2020.2/blob/master/Java/anotacoes.md#operadores-em-java)
+- [Estruturas Condicionais](https://github.com/annie-bot/Programacao-2020.2/blob/master/Java/anotacoes.md#estruturas-condicionais)
+- [Estruturas de Repetição](https://github.com/annie-bot/Programacao-2020.2/blob/master/Java/anotacoes.md#estruturas-de-repeti%C3%A7%C3%A3o)
 - [Códigos](https://github.com/annie-bot/Programacao-2020.2/tree/master/codes)
