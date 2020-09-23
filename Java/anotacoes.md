@@ -75,5 +75,8 @@ Exemplos:
 
 ## Estruturas de Repetição
 - Permite a repetição de um bloco de comandos enquanto uma condição for verdadeira.
-- while
+- Do-while - Quando queremos que um código execute pelo menos uma vez, e posteriormente continue executando somente se uma condição for verdadeira, usamos o do-while.
+- while - A diferença do while para o do-while é que o while não executa o primeiro comando sem verificar a condição, enquanto o do-while o faz.
 - O **for** é uma estrutura de controle que repete um bloco de comandos para um certo intervalo de valores.
+
+
