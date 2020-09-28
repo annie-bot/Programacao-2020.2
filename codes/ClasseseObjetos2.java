@@ -29,8 +29,8 @@ public class Imovel {
 	double calculaPreco() {
 		double precoAdicional = 0;
 		int numAndar = 0;
-		 		  if (andar > 4) {
-		            numAndar = andar - 4;
+		 		  if (pavimento > 4) {
+		            numAndar = pavimento - 4;
 		            precoAdicional = numAndar * 2000;
 		        } if (elevador == true) {
 		        	precoAdicional += 2500;
