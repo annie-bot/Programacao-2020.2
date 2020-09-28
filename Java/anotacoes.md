@@ -105,4 +105,7 @@ ao acessiveis ou visíveis as outras classes. O que permite a implementação do
 -**Set** para criar função pública de modificação.
 
 ## Strings
+- Strings correspondem a uma sequência de caracteres delimitados por aspas duplas, que são armazenadas em "instâncias" da classe String.
+- Veja a documentação completa da classe String e todos os seus métodos clicando [aqui](http://download.oracle.com/javase/1.5.0/docs/api/java/lang/String.html)
+
 
