@@ -79,4 +79,13 @@ Exemplos:
 - while - A diferença do while para o do-while é que o while não executa o primeiro comando sem verificar a condição, enquanto o do-while o faz.
 - O **for** é uma estrutura de controle que repete um bloco de comandos para um certo intervalo de valores.
 
+## Entrada de dados em Java
+- Atribui valores para uma variável usando o teclado.
+- classe Scanner do pacote java.util
+- import java.util.Scanner;
+    Scanner ler = new Scanner(System.in);
+         sc.close();
+- Para inteiros: next.Int, para float: next.Float, para double: next.Double.
 
+##
+    
