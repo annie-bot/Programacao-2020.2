@@ -98,7 +98,7 @@ Exemplos:
 - **Métodos de Instância** são aqueles que não são estáticos e para serem invocados é preciso você instanciar um objeto e invocar o método a partir desse objeto.
 - **Métodos de Classe** são os métodos marcados com o modificador static que não precisam de uma instância da classe para serem acessados. 
 
-##Encapsulamento
+## Encapsulamento
 - O encapsulamento é um método de proteger e organizar partes de um código. Cabe ao desenvolvedor pensar quais atributos e métodos ser
 ao acessiveis ou visíveis as outras classes. O que permite a implementação do encapsulamento nos programas são os modificadores de acesso. Eles são:
 -**Get** para criar função pública de acesso.
