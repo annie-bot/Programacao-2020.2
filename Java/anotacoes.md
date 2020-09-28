@@ -91,3 +91,9 @@ Exemplos:
 - **Classes** são modelos ou especificações que definem tipos de objetos. Na classe temos as Atribuições, métodos e o estado dos objetos.
 - **Objetos** são ferramentas de comunicação entre o usuário e o seu programa, que apresenta um agrupamento de dados e métodos definidos na classe.
 - **Construtores** são responsáveis por instanciar a classe que foi definida. Você pode chamar o construtor da própria classe a partir de um método estático.
+
+## Variáveis e Métodos de Instância e de Classe
+- **Variáveis instância** é uma variável cujo valor é específico ao objeto e não à classe, em geral possui uma valor diferente em cada objeto membro da classe.
+- **Variáveis de classe** é uma variável que seu valor é comum a todos os objetos membros da classe. Mudar o valor de uma variável de classe em um objeto membro automaticamente muda o valor para todos os objetos membros.
+- **Métodos de Instância** são aqueles que não são estáticos e para serem invocados é preciso você instanciar um objeto e invocar o método a partir desse objeto.
+- **Métodos de Classe** são os métodos marcados com o modificador static que não precisam de uma instância da classe para serem acessados. 
