@@ -87,5 +87,7 @@ Exemplos:
          sc.close();
 - Para inteiros: next.Int, para float: next.Float, para double: next.Double.
 
-##
-    
+## Classes, objetos e construtores.
+- **Classes** são modelos ou especificações que definem tipos de objetos. Na classe temos as Atribuições, métodos e o estado dos objetos.
+- **Objetos** são ferramentas de comunicação entre o usuário e o seu programa, que apresenta um agrupamento de dados e métodos definidos na classe.
+- **Construtores** são responsáveis por instanciar a classe que foi definida. Você pode chamar o construtor da própria classe a partir de um método estático.
